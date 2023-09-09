@@ -8,4 +8,4 @@ This repository is the implementation of character-level text generation model w
 git clone https://github.com/abel-shimeles/Shakespearean_Poem_Generator
 cd Shakespearean_Poem_Generator
 ```
-2. Run the [Shakespearean_Poem_Generator](Shakespearean_Poem_Generator.ipynb)
+2. Run the [Shakespearean_Poem_Generator.ipynb](Shakespearean_Poem_Generator.ipynb) file.
